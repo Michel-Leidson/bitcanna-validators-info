@@ -1,0 +1,1 @@
+# bitcanna-validators-info
