@@ -3,7 +3,7 @@
         {
             "operator_address":"bcnavaloper19cqgl632n54hk8flkpaxnjd0ya7fnr49djukyx",
             "discord_nickname":"Stake | StakePool#9899"
-        },      
+        },
         {
             "operator_address":"bcnavaloper19gta62js3h3p6s4xdtyyrt7g2zysp5rnk2hnkv",
             "discord_nickname":"Raul BitCanna ES#3102"
@@ -23,6 +23,10 @@
         {
             "operator_address":"bcnavaloper1xwazl8ftks4gn00y5x3c47auquc62ssuxx8m5k",
             "discord_nickname":"jabbey#2389"
-        }
+        },
+        {
+          "operator_address":"bcnavaloper1geczcfv0e2s249ghf2jd36kcshscuwhhux42xu",
+          "discord_nickname":"napolean#8096"
+      }
     ]
 }
