@@ -25,6 +25,10 @@
             "discord_nickname":"jabbey#2389"
         },
         {
+            "operator_address":"bcnavaloper18perfd479atcgpqstfh3nkkt34cz20vah2fsql",
+            "discord_nickname":"Madafak | Avril14th#6805"
+        },
+        {
             "operator_address":"bcnavaloper1qh9afqys355gvqg83gjm9u5pcts2xlehfkecq3",
             "discord_nickname":"feida | Blockscope#8484"
         },
@@ -39,7 +43,6 @@
         {
             "operator_address":"bcnavaloper140l6y2gp3gxvay6qtn70re7z2s0gn57z05j958",
             "discord_nickname":"schultzie | Lavender.Five Nodes#3231"
-        },
-       
+        }
     ]
 }
