@@ -1,52 +1,56 @@
 {
     "validators": [
         {
-            "operator_address":"bcnavaloper19cqgl632n54hk8flkpaxnjd0ya7fnr49djukyx",
-            "discord_nickname":"Stake | StakePool#9899"
-        },      
-        {
-            "operator_address":"bcnavaloper19gta62js3h3p6s4xdtyyrt7g2zysp5rnk2hnkv",
-            "discord_nickname":"Raul BitCanna ES#3102"
+            "operator_address": "bcnavaloper19cqgl632n54hk8flkpaxnjd0ya7fnr49djukyx",
+            "discord_nickname": "Stake | StakePool#9899"
         },
         {
-            "operator_address":"bcnavaloper14h2x997gt54v7akrxdfakd33x9yxa5kh9t0r9a",
-            "discord_nickname":"Paranorm#2292"
+            "operator_address": "bcnavaloper19gta62js3h3p6s4xdtyyrt7g2zysp5rnk2hnkv",
+            "discord_nickname": "Raul BitCanna ES#3102"
         },
         {
-            "operator_address":"bcnavaloper1km88duvfjhq4cda36cf75kgfrv89k8mcldtshg",
-            "discord_nickname":"Johnny X G4m3r#0469"
+            "operator_address": "bcnavaloper14h2x997gt54v7akrxdfakd33x9yxa5kh9t0r9a",
+            "discord_nickname": "Paranorm#2292"
         },
         {
-            "operator_address":"bcnavaloper1a5498yallpyr2zgedsj03v75nswe88h3xhajz4",
-            "discord_nickname":"Dav#5233"
+            "operator_address": "bcnavaloper1km88duvfjhq4cda36cf75kgfrv89k8mcldtshg",
+            "discord_nickname": "Johnny X G4m3r#0469"
         },
         {
-            "operator_address":"bcnavaloper1xwazl8ftks4gn00y5x3c47auquc62ssuxx8m5k",
-            "discord_nickname":"jabbey#2389"
+            "operator_address": "bcnavaloper1a5498yallpyr2zgedsj03v75nswe88h3xhajz4",
+            "discord_nickname": "Dav#5233"
         },
         {
-            "operator_address":"bcnavaloper1t5rvn85jhmul9rxn3qryhrd99fqcddkz5357rz",
-            "discord_nickname":"arda | Validator.run#8670"
+            "operator_address": "bcnavaloper1xwazl8ftks4gn00y5x3c47auquc62ssuxx8m5k",
+            "discord_nickname": "jabbey#2389"
         },
         {
-            "operator_address":"bcnavaloper18perfd479atcgpqstfh3nkkt34cz20vah2fsql",
-            "discord_nickname":"Madafak | Avril14th#6805"
+            "operator_address": "bcnavaloper1t5rvn85jhmul9rxn3qryhrd99fqcddkz5357rz",
+            "discord_nickname": "arda | Validator.run#8670"
         },
         {
-            "operator_address":"bcnavaloper1qh9afqys355gvqg83gjm9u5pcts2xlehfkecq3",
-            "discord_nickname":"feida | Blockscope#8484"
+            "operator_address": "bcnavaloper18perfd479atcgpqstfh3nkkt34cz20vah2fsql",
+            "discord_nickname": "Madafak | Avril14th#6805"
         },
         {
-            "operator_address":"bcnavaloper1gsq4dsxvgsswkgrsftz0k905rzjc0n2hv26xgj",
-            "discord_nickname":"JoseCT | stakely.io#8451"
-        },
-        { 
-            "operator_address":"bcnavaloper1ttkg00prt6w9a9zsgh9ywvftmqm22n4z5xezma",
-            "discord_nickname":"El-Jay_Crypto#8427"
+            "operator_address": "bcnavaloper1qh9afqys355gvqg83gjm9u5pcts2xlehfkecq3",
+            "discord_nickname": "feida | Blockscope#8484"
         },
         {
-            "operator_address":"bcnavaloper140l6y2gp3gxvay6qtn70re7z2s0gn57z05j958",
-            "discord_nickname":"schultzie | Lavender.Five Nodes#3231"
+            "operator_address": "bcnavaloper1gsq4dsxvgsswkgrsftz0k905rzjc0n2hv26xgj",
+            "discord_nickname": "JoseCT | stakely.io#8451"
+        },
+        {
+            "operator_address": "bcnavaloper1ttkg00prt6w9a9zsgh9ywvftmqm22n4z5xezma",
+            "discord_nickname": "El-Jay_Crypto#8427"
+        },
+        {
+            "operator_address": "bcnavaloper140l6y2gp3gxvay6qtn70re7z2s0gn57z05j958",
+            "discord_nickname": "schultzie | Lavender.Five Nodes#3231"
+        },
+        {
+            "operator_address": "bcnavaloper1geczcfv0e2s249ghf2jd36kcshscuwhhux42xu",
+            "discord_nickname": "napolean#8096"
         }
     ]
 }
