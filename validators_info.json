@@ -52,9 +52,25 @@
             "operator_address": "bcnavaloper1geczcfv0e2s249ghf2jd36kcshscuwhhux42xu",
             "discord_nickname": "napolean#8096"
         },
-	{
+      	{
             "operator_address":"bcnavaloper1cay7jmgeqr7wuuyc2dtaul87096xct84uyq4qa",
             "discord_nickname":"Robson Germano#4743"
+        },
+        {
+            "operator_address": "bcnavaloper1q5kcvn0lg9pxxl900y26h4e49a5ptqw2kqu9xl",
+            "discord_nickname": "CoinBevy#5879"
+        },
+        {
+            "operator_address": "bcnavaloper17h2x3j7u44qkrq0sk8ul0r2qr440rwgjssamkz",
+            "discord_nickname": "Gaia#0704"
+        },
+        {
+            "operator_address": "bcnavaloper14asu4u27cq8kuw45d43ztsr8thu26ygqkq4f40",
+            "discord_nickname": "Jep-123#0979"
+        },
+        {
+            "operator_address":"bcnavaloper1jl0p0q3455wjqmgle4huv38qps70w5g6xskwr8",
+            "discord_nickname":"roemer#0931"
         }
     ]
 }
