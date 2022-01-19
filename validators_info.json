@@ -51,6 +51,10 @@
         {
             "operator_address": "bcnavaloper1geczcfv0e2s249ghf2jd36kcshscuwhhux42xu",
             "discord_nickname": "napolean#8096"
+        },
+        {
+            "operator_address":"bcnavaloper1jl0p0q3455wjqmgle4huv38qps70w5g6xskwr8",
+            "discord_nickname":"roemer#0931"
         }
     ]
 }
