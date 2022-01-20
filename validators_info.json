@@ -71,6 +71,10 @@
         {
             "operator_address":"bcnavaloper1jl0p0q3455wjqmgle4huv38qps70w5g6xskwr8",
             "discord_nickname":"roemer#0931"
-        }
+        },
+        {
+            "operator_address": "bcnavaloper1ldj98v05lusvapypx7s45nf67w6yeh5q8jawjt",
+            "discord_nickname": "Arcturian#4456"
+        },
     ]
 }
